@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hawaii</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+
+    <ul class="nav">
+      <li><a href=index.html>TAKE ME BACK TO ISLAND OPTIONS</a></li>
+    </ul>
+
+    <h1>Things to do in Hawaii...</h1>
+
+    <section3>
+            <ul>
+              <li><a href="https://www.gohawaii.com/experiences/adventure/surfing">Big Wave Surfing</a></li>
+              <br>
+              <li><a href="https://www.eater.com/maps/best-honolulu-restaurants">Hawaii Restaurants</a></li>
+              <br>
+              <li><a href="https://www.alltrails.com/us/hawaii">Hawaii Hiking Trails</a></li>
+              <br>
+              <li><a href="https://www.tripsavvy.com/best-luaus-in-hawaii-1533226">Luaus</a></li>
+            </ul>
+    </section3>
+
+
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Hawaii1.JPG" style="width:275px; height:206px;"><br>North Shore Surfer</p1>
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Hawaii4.JPG" style="width:275px; height:206px;"><br>Fresh Sushi</p1>
+            <p1 style="clear: both;"></p1>
+
+    <section3>
+      <ul>
+        <li><a href="https://visitpearlharbor.org/">Visit Pearl Harbor</a></li>
+        <br>
+        <li><a href="https://www.gohawaii.com/islands">The Hawaiian Islands</a></li>
+      </ul>
+    </section3>
+
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Hawaii2.JPG" style="width:275px; height:206px;"><br>Na Pali Coast</p2>
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Hawaii3.JPG" style="width:275px; height:206px;"><br>Old Lahaina Luau</p2>
+            <p2 style="clear: both;"></p2>
+
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Thailand</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+
+    <ul class="nav">
+      <li><a href=index.html>TAKE ME BACK TO ISLAND OPTIONS</a></li>
+    </ul>
+    
+    <h1>Things to do in Thailand...</h1>
+
+    <section3>
+            <ul>
+              <li><a href="http://www.fullmoon.phangan.info/">Full Moon Parties</a></li>
+              <br>
+              <li><a href="http://www.dive-the-world.com/diving-sites-thailand.php">Thailand SCUBA Diving</a></li>
+              <br>
+              <li><a href="http://www.bangkok.com/tours-top10/">Around Bangkok</a></li>
+              <br>
+              <li><a href="https://www.tripadvisor.com/Restaurants-g293915-Thailand.html">Eating in Thailand</a></li>
+            </ul>
+    </section3>
+
+
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Thailand1.JPG" style="width:275px; height:206px;"><br>Thai Buckets</p1>
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Thailand2.JPG" style="width:275px; height:206px;"><br>Bangkok Tuk Tuk</p1>
+            <p1 style="clear: both;"></p1>
+
+    <section3>
+      <ul>
+        <li><a href="http://www.traveller.com.au/thailand-travel-guide-and-tips-20-things-that-will-surprise-firsttime-visitors-gk92qd">Thai Tips & Tricks</a></li>
+      </ul>
+    </section3>
+
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Thailand3.JPG" style="width:275px; height:206px;"><br>Grand Palace</p2>
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Thailand4.JPG" style="width:275px; height:206px;"><br>Thai Lantern Celebration</p2>
+            <p2 style="clear: both;"></p2>
+
+    </body>
+</html>

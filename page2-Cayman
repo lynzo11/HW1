@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cayman Islands</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+
+    <ul class="nav">
+      <li><a href=index.html>TAKE ME BACK TO ISLAND OPTIONS</a></li>
+    </ul>
+
+    <h1>Things to do in Cayman...</h1>
+    
+    <section3>
+            <ul>
+              <li><a href="https://travel.padi.com/d/cayman-islands/">SCUBA Diving in Cayman</a></li>
+              <br>
+              <li><a href="http://www.caymangoodtaste.com/">Cayman Restaurants</a></li>
+              <br>
+              <li><a href="http://www.explorecayman.com/boat-cruises">Cayman Boat Tours</a></li>
+              <br>
+              <li><a href="https://www.stingraycitycaymanislands.com/">Visit Stingray City</a></li>
+            </ul>
+    </section3>
+
+
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Cayman1.JPG" style="width:275px; height:206px;"><br>Seven Mile Beach Sunset</p1>
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Cayman4.JPG" style="width:275px; height:206px;"><br>Cayman Turtle Farm</p1>
+            <p1 style="clear: both;"></p1>
+
+    <section3>
+      <ul>
+        <li><a href="http://www.caymanislands.ky/activities/attractions/caymanturtlefarm.aspx">Explore the Turtle Farm</a></li>
+        <br>
+        <li><a href="https://www.tripadvisor.com/Attractions-g147365-Activities-Grand_Cayman_Cayman_Islands.html">Top Cayman Activities</a></li>
+      </ul>
+    </section3>
+
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Cayman2.JPG" style="width:275px; height:206px;"><br>Stingray City</p2>
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Cayman3.JPG" style="width:275px; height:206px;"><br>North Sound Boat Tours</p2>
+            <p2 style="clear: both;"></p2>
+
+    </body>
+</html>

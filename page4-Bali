@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bali</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+
+    <ul class="nav">
+      <li><a href=index.html>TAKE ME BACK TO ISLAND OPTIONS</a></li>
+    </ul>
+    
+    <h1>Things to do in Bali...</h1>
+
+    <section3>
+            <ul>
+              <li><a href="http://yogascapes.com/10-best-yoga-retreats-in-bali">Ubud Yoga Retreats</a></li>
+              <br>
+              <li><a href="https://divezone.net/diving/bali">Bali SCUBA Diving</a></li>
+              <br>
+              <li><a href="http://www.bali-indonesia.com/magazine/bali-must-see-temples.htm">Temples</a></li>
+              <br>
+              <li><a href="https://www.thecrazytourist.com/55-best-things-bali-indonesia/">Bali Tours</a></li>
+            </ul>
+    </section3>
+
+
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Bali1.JPG" style="width:275px; height:206px;"><br>Beach Yoga</p1>
+            <p1 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Bali2.JPG" style="width:275px; height:206px;"><br>Ubud Elephant Sanctuary</p1>
+            <p1 style="clear: both;"></p1>
+
+    <section3>
+      <ul>
+        <li><a href="https://www.bali.com/nightlife.html">Bali Nightlife</a></li>
+      </ul>
+    </section3>
+
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Bali3.JPG" style="width:275px; height:206px;"><br>Ulu Watu Fire Walkers</p2>
+            <p2 style="float: left; font-size: 11pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="Bali4.JPG" style="width:275px; height:206px;"><br>Ayung River Rafting</p2>
+            <p2 style="clear: both;"></p2>
+
+    </body>
+</html>
